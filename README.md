@@ -1,12 +1,11 @@
 # README.md
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Alex+Cerezo+%F0%9F%98%8E" alt="Typing SVG">
+</p>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Alex+Cerezo+%F0%9F%98%8E" alt="Typing SVG">
-</p>
 
 ---
 
