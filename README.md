@@ -11,12 +11,7 @@
 
 <h3 align="center">Sobre mí</h3>
 <p align="center">
-🎓 Estudiante de Ingeniería en Sistemas, apasionado por el desarrollo de software y la tecnología.<br>
-🌍 Nacido en Villa Montes, Gran Chaco - Bolivia.<br>
-👨‍💻 Me especializo en C#, SQL Server y arquitectura en tres capas.<br>
-🚀 Actualmente construyendo soluciones para negocios locales.<br>
-🧠 En constante aprendizaje: Ethereum, Solidity, teoría de conjuntos, AI y más.<br>
-📚 Me encanta resolver retos de programación y estudiar nuevos paradigmas.
+🎓 Estudiante de Ingeniería en Sistemas e Informatica apasionado por el desarrollo de software y la tecnología.<br>
 </p>
 
 ---
