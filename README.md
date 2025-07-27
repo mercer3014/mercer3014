@@ -61,8 +61,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mercer3014&theme=whatsapp-dark&card_width=830)](https://git.io/streak-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=mercer3014&show_icons=true&theme=gotham" />
 </a>
