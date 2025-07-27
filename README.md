@@ -50,10 +50,24 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://x.com/AlexCerezo74640?t=8UY6iXI78LKmgRzsfGx-Cg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2" alt="X">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.linkedin.com/in/alex-cerezo-296897354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mercer3014&theme=whatsapp-dark&card_width=830)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mercer3014&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercer3014&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
+</a>
+
 
