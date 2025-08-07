@@ -29,8 +29,8 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,arduino,github,androidstudio" /><br>
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/>
+<img src="https://skillicons.dev/icons?i=mysql" /> 
+<!--<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/>-->
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
 
 </div>
