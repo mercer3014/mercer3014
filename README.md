@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,html,css,python,cs,php,cpp,solidity" /><br>
 
 <!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=laravel,react,vue" /><br>
+<img src="https://skillicons.dev/icons?i=react" /><br>
 
 <!-- Tools / IDEs -->
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,arduino,github,androidstudio" /><br>
