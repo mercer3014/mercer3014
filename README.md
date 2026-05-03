@@ -20,7 +20,7 @@
 <div align="center">
 
 <!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=javascript,html,css,python,cs,php,cpp,solidity" /><br>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,python,cs,php,cpp,solidity,java" /><br>
 
 <!-- Frameworks -->
 <img src="https://skillicons.dev/icons?i=react" /><br>
@@ -29,38 +29,24 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,arduino,github,androidstudio" /><br>
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" /> 
-<!--<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/>-->
-<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
+<img src="https://skillicons.dev/icons?i=mysql,mssql" /> 
 
 </div>
 
 ---
 
-### 🌐 Social Media
-<p align="left">
-  <a href="https://www.instagram.com/alexmercerostras/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com/@ac_exploit?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://x.com/AlexCerezo74640?t=8UY6iXI78LKmgRzsfGx-Cg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.linkedin.com/in/alex-cerezo-296897354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-cerezo-296897354) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/AlexCerezo74640) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/alexmercerostras/?__pwa=1) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ac_exploit)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=mercer3014&show_icons=true&theme=gotham" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercer3014&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <br><br>
+  <!-- Usando Streak Stats como alternativa estable -->
+  <img height="180" src="https://streak-stats.demolab.com?user=mercer3014&theme=dark" alt="GitHub Streak" />
 </div>
