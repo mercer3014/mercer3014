@@ -43,10 +43,3 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Game" />
-  <br><br>
-  <!-- Usando Streak Stats como alternativa estable -->
-  <img height="180" src="https://streak-stats.demolab.com?user=mercer3014&theme=dark" alt="GitHub Streak" />
-</div>
